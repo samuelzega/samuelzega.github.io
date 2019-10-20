@@ -1,2 +1,2 @@
 # samuelzega.github.io
-cv
+portfolio
